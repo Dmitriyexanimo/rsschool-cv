@@ -50,7 +50,7 @@ this.normalize = function() {
   this.y *= invLength;
   return this;
 };
-}
+}a
 function ImgSceneObject(img, src, w, h, imageCenter) { loaded = false; img.onload = function() { loaded = true; } img.src = src; this.pos = imageCenter; this.w = w; this.h = h;
 this.update = function(angle, v) { ctx.save();
 ctx.translate(this.pos.x, this.pos.y); ctx.rotate(angle);
