@@ -66,6 +66,6 @@ mouse.x = e.clientX; mouse.y = e.clientY;
 direction.x = mouse.x; direction.y = mouse.y;
 angle = Math.atan2(mouse.y-myImg.pos.y, mouse.x-myImg.pos.x); direction.sub(myImg.pos).normalize().multScalar(translationSpeed); };
 initApp(); gameloop(); }());
-6.	Experience https://codepen.io/alexzaworski/pen/mEkvAG https://codepen.io/hexagoncircle/pen/akWOdE https://codepen.io/bob6664569/pen/rOzmve
+6.	Experience https://codepen.io/alexzaworski/pen/mEkvAG https://codepen.io/hexagoncircle/pen/akWOdE https://codepen.io/bob6664569/pen/rOzmvedd
 7.	Education Professional development, courses 2009 web-designer private school, web-designer 2009 SEO specialist private school, SEO specialist Tests, examinations 2008 driving test driving school"Doseaf", exellent
 8.	English (elaborate on what kind of practice you had, if any, how long it lasted and so on) n
